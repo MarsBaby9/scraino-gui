@@ -2,9 +2,9 @@
 The development is based on the foundation of [scratch-gui](https://github.com/LLK/scratch-gui)
 
 ```bash
-git clone https://github.com/yahb/scraino-blocks.git
-git clone https://github.com/yahb/scraino-vm.git
-git clone https://github.com/yahb/scraino-gui.git
+git clone https://github.com/MarsBaby9/scraino-blocks.git
+git clone https://github.com/MarsBaby9/scraino-vm.git
+git clone https://github.com/MarsBaby9/scraino-gui.git
 
 
 Directory Structure
